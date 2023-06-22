@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <!-- Bloco de Redes Sociais -->
 
 ## Sobre Mim
-- 🌱 Atualmente estou estudando Front-end e Back-end na DIO
+- 🌱 Atualmente estou estudando Front-end e Back-end.
 - 🏫 Cursando Tecnologo em Analise e Desenvolvimento de Sistemas na Faculdade Descomplica
 
 <div> 
