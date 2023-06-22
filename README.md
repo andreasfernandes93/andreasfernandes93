@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
   <img align="center" alt="Andreas-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
+<img align="center" alt="Andreas-Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+
+<img align="center" alt="Andreas-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+
+
+
   </div>
 
   <!-- Trecho com as duas # para criarmos uma linha separando o conteúdo -->
