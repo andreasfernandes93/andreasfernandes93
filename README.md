@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 ## Meu nome é Andreas Fernandes!
 
 <!--  Parte de status do GitHub no topo -->
+<br>
+<div align="center" display="inline-block">
+  <a href="https://github.com/mariakarolinesvg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreasfernandes93&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasfernandes93&layout=compact&langs_count=7&theme=react" />
 
+</div>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreasfernandes93&show_icons=true&theme=merko)
 
   <!-- Linha de logotípos das linguagens -->
