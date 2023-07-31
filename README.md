@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 </div>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreasfernandes93&show_icons=true&theme=merko)
 
   <!-- Linha de logotípos das linguagens -->
 ### Alguns dos meus conhecimentos!
