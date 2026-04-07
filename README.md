@@ -45,7 +45,12 @@ Here are some ideas to get you started:
 
 <img align="center" alt="Andreas-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
-<img align="center" alt="Andreas-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />     
+<img align="center" alt="Andreas-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />
+
+<img align="center" alt="Andreas-Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<img align="center" alt="Andreas-DenoJs" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original-wordmark.svg" />
+        
   </div>
 
   <!-- Trecho com as duas # para criarmos uma linha separando o conteúdo -->
@@ -54,8 +59,8 @@ Here are some ideas to get you started:
   <!-- Bloco de Redes Sociais -->
 
 ## Sobre Mim
-- 🌱 Atualmente estou estudando Front-end e Back-end.
-- 🏫 Cursando Tecnologo em Analise e Desenvolvimento de Sistemas na Faculdade Descomplica
+- 🌱 Sempre estudando Back-end, Front-end, Automações, Cibersegurança e Engenharia de Prompt.
+- 🏫 Formado em Tecnologo em Analise e Desenvolvimento de Sistemas na Faculdade Descomplica
 
 <div> 
   <a href="https://www.linkedin.com/in/andreas-fernandes-17bb97190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
